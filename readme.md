@@ -23,8 +23,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
-   cd your-backend-repo
+   git clone https://github.com/kumawatvaibhav/LinkTREE.git
+   cd linktree
    ```
 
 2. **Install dependencies:**
